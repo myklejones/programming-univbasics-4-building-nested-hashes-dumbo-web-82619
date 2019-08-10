@@ -1,6 +1,6 @@
 def base_hash
- 
-	{}
+ anime =
+	{naruto: "Naruto Uzamaki"}
 end
 
 def monopoly_with_second_tier
