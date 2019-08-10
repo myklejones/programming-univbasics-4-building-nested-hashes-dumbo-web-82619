@@ -12,7 +12,10 @@ def monopoly_with_third_tier
  anime =
 	{ railroads: {pieces:4,
 	rent_in_dollars:{
-	  one_piece_owned:25,key2:{},key3:{},key4:{}},
+	  one_piece_owned:25,
+	  two_piece_owned:50,
+	  three_piece_owned:75,
+	  four_piece_owned:100},
 	  names:{key1:{},key2:{},key3:{},key4:{}}
 	  
 	 },
